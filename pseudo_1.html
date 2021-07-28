@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    a:link{ //방문한 적이 없는 링크
+      color:black;
+    }
+    a:visited{ //방문한 적이 잇는 링크
+      color:red;
+    }
+    a:hover{ // 마우스 올려놧을때
+      color:yellow;
+    }
+    a:active{  //마우스를 누르고 잇으면 색깔 그린
+      color:green;
+    }
+
+    a:focus{
+      color:white;
+    }
+    input:focus{
+      background-color:black;
+      color:white;
+    }
+  </style>
+</head>
+<body>
+  <a href="https://www.naver.com">방문함</a>
+  <a href="https://www.daum.net">방문안함</a>
+  <input type="text">
+</body>
+</html>
