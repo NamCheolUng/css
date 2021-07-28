@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="heart-empty" unicode="&#xe800;" d="M1063 562v-60q0-285-532-653-531 367-531 653v60q0 127 81 207t206 80q81 0 134-30t110-99q58 68 111 99t133 30q126 0 207-80t81-207z m-117-55v50q0 58-39 114t-95 61q-12 2-37 2-53 0-83-19t-72-69l-89-105-89 105q-42 49-72 69t-83 19q-24 0-37-2-56-6-93-60t-41-115v-50q0-30 17-75 68-199 398-441 329 239 399 441 16 50 16 75z" horiz-adv-x="1063" />
+
+<glyph glyph-name="music" unicode="&#xe801;" d="M1-16q-8 57 38 103t118 57q64 10 119-17l25 652 690 53q-32-727-34-756-1-51-45-91t-109-50q-72-10-129 22t-64 89 37 105 117 58q68 9 125-22l25 465-539-55-5-131q-6-131-12-277t-8-176l0-6q-6-50-49-89t-107-47q-70-10-127 23t-66 90z" horiz-adv-x="991" />
+
+<glyph glyph-name="facebook-rect" unicode="&#xf301;" d="M1000 761v-824q0-36-26-62t-62-26h-824q-36 0-62 26t-26 62v824q0 36 26 62t62 26h824q36 0 62-26t26-62z m-187-160l20 118q-43 15-143 15-79 0-123-58-26-34-26-119v-78h-79v-115h79v-400h149v400h118l9 115h-127v90q0 42 59 42 31 0 64-10z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
